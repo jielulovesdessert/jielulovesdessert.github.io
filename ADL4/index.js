@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Now to the ascent of that steep savage hill Satan had journeyed on, pensive and slow; But further way found none, so thick entwined, As one continued brake, the undergrowth Of shrubs and tangling bushes had perplexed All path of man or beast that passed that way.',
+      'Now to the ascent of that steep savage hill Satan had journeyed on, pensive and slow; But further way found none, so thick entwined, As one continued brake.',
   'example2':
       'I dreamt last Night of the three weyward Sisters: To you they haue shew'd some truth',
   'example3':
