@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'Now to the ascent of that steep savage hill Satan had journeyed on, pensive slow.',
   'example2':
-      'I dreamt last Night of the three weyward Sisters.',
+      'Enter Macbeth and Banquo.',
   'example3':
       'And the LORD set a mark upon Cain, lest any finding him should kill him.'      
 };
