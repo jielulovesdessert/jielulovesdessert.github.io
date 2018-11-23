@@ -35,7 +35,7 @@ def unison_shuffled_copies(a, b):
 x_train, y_train = unison_shuffled_copies(x_train, y_train)
 
 #tokenize x
-max_len = 40
+max_len = 25
 num_words = 1000
 from keras.preprocessing.text import Tokenizer
 # Fit the tokenizer on the training data

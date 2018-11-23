@@ -1,6 +1,6 @@
 import keras
 
-max_len = 40
+max_len = 25
 num_words = 1000
 embedding_size = 32
 n_classes = 3
