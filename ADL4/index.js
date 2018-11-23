@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Now to the ascent of that steep savage hill Satan had journeyed on, pensive and slow; But further way found none, so thick entwined, As one continued brake.',
+      'Now to the ascent of that steep savage hill Satan had journeyed on, pensive and slow',
   'example2':
-      'I dreamt last Night of the three weyward Sisters: To you they haue shew'd some truth',
+      'I dreamt last Night of the three weyward Sisters',
   'example3':
-      '21:29 And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?'      
+      'What mean these seven ewe lambs which thou hast set by themselves'      
 };
 
 function status(statusText) {
