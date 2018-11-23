@@ -1,4 +1,4 @@
-# TensorFlow js Example: Classify Gutenberg books 
+# TensorFlow.js Example: Classify Gutenberg books with LSTM
 
 This project uses Layers API of TensorFlow.js to create a text classifier for three books from [Project Gutenberg](https://www.gutenberg.org/)
 
